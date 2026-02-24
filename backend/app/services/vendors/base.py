@@ -1,0 +1,1 @@
+# abstração dos comandos de cada fabricante

@@ -1,0 +1,1 @@
+# criptografia das credenciais
